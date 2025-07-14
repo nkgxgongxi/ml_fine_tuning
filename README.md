@@ -6,6 +6,7 @@ This repository provides a hands-on demonstration of machine learning model fine
 
 *   `simple_lr_model.ipynb`: A Jupyter notebook demonstrating how to train and fine-tune a **Logistic Regression** model locally.
 *   `simple_rf_model.ipynb`: A Jupyter notebook demonstrating how to train and fine-tune a **Random Forest** model locally.
+*   `rf_with_fe_model.ipynb`: A Jupyter notebook demonstrating advanced techniques to train and fine-tune a **Random Forest** model locally.
 *   `Titanic Model Tuning Demo.ipynb`: A notebook designed to be run within the **Snowflake Notebooks** environment for in-database model tuning.
 *   `snowflake_access_control.sql`: A SQL script to guide users in setting up the necessary roles, users, database, and schema in Snowflake to run the demo.
 *   `requirements.txt`: A list of Python packages required for the local execution demos.
